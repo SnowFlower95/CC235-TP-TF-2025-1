@@ -6,8 +6,8 @@ Desarrollar un sistema de clasificación automática de frutas a partir de imág
 El objetivo es comparar el rendimiento del modelo sobre un dataset de frutas y construir una interfaz sencilla para que un usuario final pueda cargar una imagen y obtener la predicción.
 
 ### Integrantes
-- Huamán Cortez, Anabella Karina (U202216171)
-- Montenegro López, Valentina Étoile (U202312021)
+- Huamán Cortez, Anabella Karina 
+- Montenegro López, Valentina Étoile 
 
 ### Descripción del dataset
 - **Fuente:** Fruits-360 (Kaggle), puede ser descargada mediante el siguiente enlace: https://www.kaggle.com/moltean/fruits
