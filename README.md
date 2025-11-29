@@ -18,7 +18,7 @@ El objetivo es comparar el rendimiento del modelo sobre un dataset de frutas y c
 - Carpeta `code/`
   - `TF_grupo4_CNN_.ipynb`: notebook con el preprocesamiento, entrenamiento, evaluación y métricas del modelo.
   - `app.py`: aplicación en Streamlit que carga el modelo entrenado y permite clasificar las imagenes.
-  - `modelo_frutas.keras`: modelo final entrenado que se utiliza en la aplicación.
+  - `modelo_frutas_v2.keras`: modelo final entrenado que se utiliza en la aplicación.
 
 ### Conclusiones
 - El modelo alcanzó una **accuracy de 84.81 %** sobre el conjunto de prueba.
